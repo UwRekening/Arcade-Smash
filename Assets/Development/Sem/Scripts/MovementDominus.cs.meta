@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 34963bcc06b093249bfa2640386d8ad7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 6376531780423829179, guid: be4bc42d52a10504ea1e312219016b2a, type: 3}
+  - bulletProjectile: {fileID: -769541826773626089, guid: be4bc42d52a10504ea1e312219016b2a, type: 3}
+  - bulletOffsetRight: {instanceID: 0}
+  - bulletOffsetLeft: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

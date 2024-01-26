@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/MainMenu.unity
+    guid: ad9f8283616979f42b4f83f170f3ea72
+  - enabled: 1
+    path: Assets/Game/Scenes/Transition.unity
+    guid: df0ba5ef25d62c54c833a58d3e7c9fe4
+  - enabled: 1
+    path: Assets/Game/Scenes/Game.unity
+    guid: 2cf6e70c470c3e14fbadc3496bb1bab8
+  - enabled: 1
+    path: Assets/Game/Scenes/Calculations.unity
+    guid: 5f1340534ee35a34f9c98afa3069babb
+  - enabled: 1
+    path: Assets/Game/Scenes/Highscores.unity
+    guid: b0aa4237aed0be84e85bd5646abc61c0
+  m_configObjects: {}

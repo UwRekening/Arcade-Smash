@@ -1,0 +1,1401 @@
+fileFormatVersion: 2
+guid: 8cadfa74d04f8a740815a1b219f5b5b0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 439
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67aa570b0db59f4c9b05043a5ec5102
+      internalID: 1667496084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 440
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ef610d0a3f7b4cbfd84ed837fa555
+      internalID: 813085069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 439
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e5f158963df944783ab78e287d3dd0
+      internalID: 1231672434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 442
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03720b6dce6ad8f4bbf8b44f58f1dbac
+      internalID: -525955474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 443
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc4224582924be4fa2ede1e9501f185
+      internalID: 408492759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 362
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc08d9fda7fe9941806b85a64a7ec3f
+      internalID: -1761024977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 361
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8418a6fb87a8d894e8fd1963cc35d06e
+      internalID: 888476234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 359
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b2ef94384bfd45bd3967e6834e0ff
+      internalID: 1367787292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 358
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbcc83f8fa6c51409905e4d97f43dda
+      internalID: -2051917416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 360
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134330565a83f6c448eb73e95fa2048f
+      internalID: -2109553351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 360
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d87f24cb0417d489856a647c6b3cd0
+      internalID: -1911925941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 359
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f93a211ab0f7c43ac4487502c6c81b
+      internalID: 60089173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 358
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ab97e5457b0148ae974bd35fed38e
+      internalID: 562488466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86d078306ffadf498b4cf50a9e2b726
+      internalID: -1911925221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 268
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15905fdae4b1d7f44b0d426987872f4b
+      internalID: -1736614049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 254
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1f47d94d8e2944acfb98d21ec973d
+      internalID: -981206174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 249
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd399972e301684cb787c4b2d1d9e40
+      internalID: -1834566607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 255
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f48837bf9b22d042ac4edbba11feafb
+      internalID: 1715144089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 251
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce07f6c121f063c47beba9eb1c874a36
+      internalID: 1085760108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 178
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a33056f2c319d45ac0055e06a8bd4e
+      internalID: 1387901184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 181
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6413b953dbdaf0947860141ae9a45985
+      internalID: -2022069554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 171
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505360b012abb9a4dab64769590d5c6f
+      internalID: -649424004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 171
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d3d28adbe06f24383ac75511f3a6f5
+      internalID: 2001846104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 174
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e57f14e8790de4d8d4f2c2cc2a3b1a
+      internalID: 642755914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 208
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a1a88a0f77d4a4b8cda0ffbd9d7ecb
+      internalID: 1483352693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 204
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd930d7de301e74cae0af9d17c16fce
+      internalID: -17621228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 204
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d370d730b40e4c8aa303c5b46276a
+      internalID: 1425086011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 204
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da094822ea779c8469f962f5c938041c
+      internalID: 683052501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bac6da6e156b248abcdf6040764e09
+      internalID: 362227104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 99
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e401a72b0e06e63419fc931f2329f2b7
+      internalID: 368995569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 99
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f567324cdff30b4b9dbd979c9b4b2a9
+      internalID: -1131052751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 97
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4859e557e06ed234b90ac62d6583b95c
+      internalID: 281551875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 95
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b85df31ef713d42a2f2039e10e4854
+      internalID: 1801749737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 163
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff0f1104e42fa946810eb4e9a67e75c
+      internalID: -1273327244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 159
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e196759eae8c448967d83a355b0b2b
+      internalID: -911593390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 159
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83854ba117ea84c4f8b25c4fdb075610
+      internalID: -1151359121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 131
+        width: 67
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c87c1d7856f52469e9be15a09c0392
+      internalID: -822679978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 100
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781330e9fbd469f42bd333f7ee108e32
+      internalID: 1547102720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 100
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e164772b6a91264195e65ef7a4200c8
+      internalID: -1853537541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c511ee9db8e60d742b042702ea813da4
+      internalID: -19347429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 105
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f3cdcef6c1b314b932dea81599a754
+      internalID: -1232804186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 52
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86190f8366466964791c39f7d2dac470
+      internalID: -1424683424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd28c3d24516cf478c834dc298bb298
+      internalID: 32650479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 52
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1528a556c2ec84aaccad1691d26d65
+      internalID: -1409137622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 50
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28743ae8d0c09a043ba5d96326f362cd
+      internalID: 1497074906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 51
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc37436ed2ae1147babd8a689bf4601
+      internalID: -266576356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 51
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0688559a1b649449f905144315ff2f
+      internalID: 357202844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473c52b8892effd4586cc9b810ea86e7
+      internalID: 1202099124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 5
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f599b7f2b04aae408de994f32a77396
+      internalID: -1888658405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76722a821b684f2448a8d5936b67048d
+      internalID: 1408250104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6f43fac8b5ccc4eba5bbf1c70d287b
+      internalID: -346902381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 5
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613d4b232352d0c469eaa501c68e83d9
+      internalID: -155335218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 34
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa8a87868474084ab24f3a97864e2a6
+      internalID: -1585916688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 9
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f0dd7224419746b68a220425f67a3
+      internalID: -1600013480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 8
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b5db9b41808d4eb200c5e8de8ff57
+      internalID: -2032000644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 7
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf25ddaa74dea74d8b19a32a7150ce5
+      internalID: -1750562549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkers-repair-quest-char-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 6
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e230b6f6fc4c540bf485b12db6daa2
+      internalID: -459942701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Junkers-repair-quest-char-sprite_24: 1483352693
+      Junkers-repair-quest-char-sprite_18: 1085760108
+      Junkers-repair-quest-char-sprite_34: -911593390
+      Junkers-repair-quest-char-sprite_13: -1911925221
+      Junkers-repair-quest-char-sprite_41: -1424683424
+      Junkers-repair-quest-char-sprite_9: -2109553351
+      Junkers-repair-quest-char-sprite_3: -525955474
+      Junkers-repair-quest-char-sprite_12: 562488466
+      Junkers-repair-quest-char-sprite_22: 2001846104
+      Junkers-repair-quest-char-sprite_0: 1667496084
+      Junkers-repair-quest-char-sprite_28: 362227104
+      Junkers-repair-quest-char-sprite_31: 281551875
+      Junkers-repair-quest-char-sprite_25: -17621228
+      Junkers-repair-quest-char-sprite_29: 368995569
+      Junkers-repair-quest-char-sprite_33: -1273327244
+      Junkers-repair-quest-char-sprite_19: 1387901184
+      Junkers-repair-quest-char-sprite_39: -19347429
+      Junkers-repair-quest-char-sprite_53: -1600013480
+      Junkers-repair-quest-char-sprite_55: -1750562549
+      Junkers-repair-quest-char-sprite_20: -2022069554
+      Junkers-repair-quest-char-sprite_15: -981206174
+      Junkers-repair-quest-char-sprite_47: 1202099124
+      Junkers-repair-quest-char-sprite_16: -1834566607
+      Junkers-repair-quest-char-sprite_36: -822679978
+      Junkers-repair-quest-char-sprite_21: -649424004
+      Junkers-repair-quest-char-sprite_26: 1425086011
+      Junkers-repair-quest-char-sprite_56: -459942701
+      Junkers-repair-quest-char-sprite_49: 1408250104
+      Junkers-repair-quest-char-sprite_14: -1736614049
+      Junkers-repair-quest-char-sprite_11: 60089173
+      Junkers-repair-quest-char-sprite_23: 642755914
+      Junkers-repair-quest-char-sprite_8: -2051917416
+      Junkers-repair-quest-char-sprite_27: 683052501
+      Junkers-repair-quest-char-sprite_46: 357202844
+      Junkers-repair-quest-char-sprite_52: -1585916688
+      Junkers-repair-quest-char-sprite_30: -1131052751
+      Junkers-repair-quest-char-sprite_45: -266576356
+      Junkers-repair-quest-char-sprite_38: -1853537541
+      Junkers-repair-quest-char-sprite_37: 1547102720
+      Junkers-repair-quest-char-sprite_2: 1231672434
+      Junkers-repair-quest-char-sprite_7: 1367787292
+      Junkers-repair-quest-char-sprite_17: 1715144089
+      Junkers-repair-quest-char-sprite_51: -155335218
+      Junkers-repair-quest-char-sprite_6: 888476234
+      Junkers-repair-quest-char-sprite_54: -2032000644
+      Junkers-repair-quest-char-sprite_40: -1232804186
+      Junkers-repair-quest-char-sprite_10: -1911925941
+      Junkers-repair-quest-char-sprite_43: -1409137622
+      Junkers-repair-quest-char-sprite_1: 813085069
+      Junkers-repair-quest-char-sprite_48: -1888658405
+      Junkers-repair-quest-char-sprite_50: -346902381
+      Junkers-repair-quest-char-sprite_44: 1497074906
+      Junkers-repair-quest-char-sprite_32: 1801749737
+      Junkers-repair-quest-char-sprite_4: 408492759
+      Junkers-repair-quest-char-sprite_42: 32650479
+      Junkers-repair-quest-char-sprite_35: -1151359121
+      Junkers-repair-quest-char-sprite_5: -1761024977
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
