@@ -20,4 +20,4 @@
 Blijf zo lang mogelijk uit handen van de AI en win!
 
 ## Screenshot
-<img width="1280" alt="game6" src="https://github.com/UwRekening/FastPaced/assets/66946691/8f80a26f-800e-4f7d-ac91-43c3f3d256b2">
+<img width="1280" alt="game6" src="https://github.com/UwRekening/Arcade-Smash/assets/66946691/1044ef53-c89e-422a-a62a-c4f751e040ca">
